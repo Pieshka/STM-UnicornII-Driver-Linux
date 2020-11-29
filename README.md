@@ -1,0 +1,2 @@
+This is driver for Unicorn II ADSL Chipset which is used in various USB/PCI ADSL modems, such as ZTE ZXDSL 852 (Version with three LEDs) or Siemens A-100. Unfortunately it originally worked only under 2.6.3 and 2.6.16-16 kernel.
+Then this driver was ported to 3.6.10 kernel, but even this it won't run on newer Linux kernels. But if someone knows whats going on or even not, and want to port this software, I am giving the source code here.
